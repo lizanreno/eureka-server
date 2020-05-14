@@ -1,4 +1,4 @@
-package cn.reno.eurekaConsumerRibbon.Controller;
+package cn.reno.eurekaConsumerFeign.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;

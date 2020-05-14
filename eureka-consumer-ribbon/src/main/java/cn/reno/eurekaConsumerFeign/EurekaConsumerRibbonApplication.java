@@ -1,4 +1,4 @@
-package cn.reno.eurekaConsumerRibbon;
+package cn.reno.eurekaConsumerFeign;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
