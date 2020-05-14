@@ -1,4 +1,4 @@
-package cn.reno.eurekaConsumer;
+package cn.reno.eurekaConsumerRibbon;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -16,6 +16,6 @@ public class EurekaConsumerApplication {
     }
 
     public static void main(String[] args){
-        new SpringApplicationBuilder(EurekaConsumerApplication.class).web(true).run(args);
+        new SpringApplicationBuilder(EurekaConsumerRibbonApplication.class).web(true).run(args);
     }
 }

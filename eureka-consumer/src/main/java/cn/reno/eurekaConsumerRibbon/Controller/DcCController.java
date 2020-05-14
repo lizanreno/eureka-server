@@ -1,4 +1,4 @@
-package cn.reno.eurekaConsumer.Controller;
+package cn.reno.eurekaConsumerRibbon.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 @RestController
-public class DcController {
+public class DcCController {
 
     @Autowired
     LoadBalancerClient loadBalancerClient;
