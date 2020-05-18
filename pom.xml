@@ -8,6 +8,7 @@
         <module>server</module>
         <module>eureka-consumer</module>
         <module>eureka-consumer-ribbon</module>
+        <module>eureka-consumer-ribbon-hystrix</module>
         <module>eureka-consumer-feign</module>
     </modules>
     <parent>
