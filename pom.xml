@@ -10,6 +10,7 @@
         <module>eureka-consumer-ribbon</module>
         <module>eureka-consumer-ribbon-hystrix</module>
         <module>eureka-consumer-feign</module>
+        <module>rabbitMQstarter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
