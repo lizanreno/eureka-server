@@ -15,5 +15,6 @@ public class DcController {
         String services = "Services: " + discoveryClient.getServices();
         System.out.println(services);
         return  services;
+
     }
 }
